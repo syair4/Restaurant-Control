@@ -87,11 +87,15 @@ THE SOFTWARE.
 
 @angular/material/button
 
+@angular/material/card
+
 @angular/material/dialog
 
 @angular/material/form-field
 
 @angular/material/icon
+
+@angular/material/progress-spinner
 
 @angular/material/snack-bar
 
