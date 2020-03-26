@@ -30,5 +30,6 @@
     "dishEditSpecifications" : "Dish Specifications",
     "dishEditDescription" : "Dish Description",
     "dishEditSection" : "dish Section",
-    "dishEditPrice" : "dish Price"
+    "dishEditPrice" : "dish Price",
+    "dishNewTitle" : "Add New Dish"
 }
