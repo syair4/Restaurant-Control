@@ -15,7 +15,7 @@
     "menuName" : "Menu Name",
     "menuDescription" : "Menu Description",
     "sectionName" : "Section Name",
-    "sectionDescription" : "Menu Description",
+    "sectionDescription" : "Section Description",
     "dishName" : "Dish Name",
     "dishDescription" : "Description",
     "dishInfo" : "Info",
@@ -31,5 +31,6 @@
     "dishEditDescription" : "Dish Description",
     "dishEditSection" : "dish Section",
     "dishEditPrice" : "dish Price",
-    "dishNewTitle" : "Add New Dish"
+    "dishNewTitle" : "Add New Dish",
+    "AddSection" : "Add Section"
 }
