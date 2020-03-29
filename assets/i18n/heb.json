@@ -32,7 +32,15 @@
     "dishEditSection" : "מחלקה",
     "dishEditPrice" : "מחיר",
     "dishNewTitle" : "הוסף מנה חדשה",
-    "AddSection" : "הוסף מחלקה"
+    "AddSection" : "הוסף מחלקה",
+    "AddDish" : "הוסף מנה",
+    "deleteSection" : "מחק מחלקה",
+    "no" : "לא",
+    "yes" : "כן",
+    "sureDeleteSection" : "האם אתה בטוח שאתה רוצה למחוק את המחלקה הזאת?"
+
+
+
 
 
 

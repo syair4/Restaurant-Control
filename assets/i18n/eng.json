@@ -32,5 +32,10 @@
     "dishEditSection" : "dish Section",
     "dishEditPrice" : "dish Price",
     "dishNewTitle" : "Add New Dish",
-    "AddSection" : "Add Section"
+    "AddSection" : "Add Section",
+    "AddDish" : "Add Dish",
+    "deleteSection" : "Delete Section",
+    "no" : "no",
+    "yes" : "yes",
+    "sureDeleteSection" : "Are you sure you want to delete this section?"
 }
