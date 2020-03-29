@@ -37,7 +37,12 @@
     "deleteSection" : "מחק מחלקה",
     "no" : "לא",
     "yes" : "כן",
-    "sureDeleteSection" : "האם אתה בטוח שאתה רוצה למחוק את המחלקה הזאת?"
+    "sureDeleteSection" : "האם אתה בטוח שאתה רוצה למחוק את המחלקה הזאת?",
+    "username" : "שם משתמש",
+    "password" : "סיסמא",
+    "login" :"התחבר"
+
+
 
 
 
